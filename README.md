@@ -8,3 +8,4 @@
   - Normal Constructor function and Prototype Inherit.
   - Class Constructor Inherit.
 - JavaScript Encapsulation.
+- JavaScript Polymorphism,
