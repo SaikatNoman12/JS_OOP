@@ -1,5 +1,13 @@
-# JavaScript OOP
+# JavaScript OOP Concepts
 
+- ### Abstraction
+- ### Inheritance
+- ### Polymorphism
+- ### Encapsulation
+- ### Prototype Chain
+- ### Constructor Function
+
+## Learning Concepts
 - Normal Constructor Function.
 - Normal Constructor Function Prototype and Prototype Chain.
 - Class Constructor
@@ -8,4 +16,5 @@
   - Normal Constructor function and Prototype Inherit.
   - Class Constructor Inherit.
 - JavaScript Encapsulation.
-- JavaScript Polymorphism,
+- JavaScript Polymorphism.
+- JavaScript Abstraction
